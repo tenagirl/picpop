@@ -1,0 +1,21 @@
+{
+  "name": "pinterest-multimedia-gallery",
+  "version": "1.0.0",
+  "description": "A Pinterest-style gallery for images and videos using Node.js and Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "gallery",
+    "pinterest",
+    "express",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
